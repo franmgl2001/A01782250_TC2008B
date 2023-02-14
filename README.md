@@ -27,13 +27,10 @@ During this course, we will be learning about web development, game development,
 
 ### Built With
 for this proyect we will be using the following languages and tools:
-    - Web Devolopment:
  - HTML
  - CSS
  - Javascript
-    - Databases:
  - Mysql
-    - Game Development
  - Unity
 
 
